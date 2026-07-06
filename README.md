@@ -70,8 +70,6 @@ Follow these steps to run the application locally:
 To start the local development server:
    npm start
 
-Once started, open http://localhost:3000 in your browser to view the dashboard.
-
 ### Building for Production
 
 To build a minimized, production-ready bundle:
